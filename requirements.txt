@@ -1,0 +1,5 @@
+soupsieve
+selenium
+urllib3
+lxml
+beautifulsoup4
